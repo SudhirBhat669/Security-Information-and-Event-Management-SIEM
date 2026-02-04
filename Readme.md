@@ -1,4 +1,4 @@
-
+<img width="767" height="940" alt="Image" src="https://github.com/user-attachments/assets/2dd44de7-eded-453c-bd32-a424631095a1" />
 
 # Security Information and Event Management (SIEM) Systems
 
